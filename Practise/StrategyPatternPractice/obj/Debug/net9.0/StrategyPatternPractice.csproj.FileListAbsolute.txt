@@ -1,0 +1,14 @@
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/bin/Debug/net9.0/StrategyPatternPractice
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/bin/Debug/net9.0/StrategyPatternPractice.deps.json
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/bin/Debug/net9.0/StrategyPatternPractice.runtimeconfig.json
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/bin/Debug/net9.0/StrategyPatternPractice.dll
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/bin/Debug/net9.0/StrategyPatternPractice.pdb
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.AssemblyInfoInputs.cache
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.AssemblyInfo.cs
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.csproj.CoreCompileInputs.cache
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.dll
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/refint/StrategyPatternPractice.dll
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.pdb
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/StrategyPatternPractice.genruntimeconfig.cache
+/Volumes/DevDisk/System Design Notes/Practise/StrategyPatternPractice/obj/Debug/net9.0/ref/StrategyPatternPractice.dll
